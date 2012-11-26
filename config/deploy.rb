@@ -4,7 +4,7 @@ require 'capistrano_colors'
 load 'deploy/assets'
 
 set :application, "imls"
-set :repository,  "git@github.com:coshx/imls.git"
+set :repository,  "git@github.com:miller-center/imls.git"
 set :branch, fetch(:branch, "master")
 set :deploy_to, "/opt/imls"
 set :group_writable, false
