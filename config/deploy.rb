@@ -9,7 +9,7 @@ set :branch, fetch(:branch, "master")
 set :deploy_to, "/opt/imls"
 set :group_writable, false
 set :use_sudo, false
-set :keep_releases, 3
+set :keep_releases, 5
 set :scm, :git
 set :user, :imls
 
@@ -18,7 +18,7 @@ default_run_options[:shell] = "/bin/bash -l"
 
 ssh_options[:forward_agent] = true
 
-set :deploy_via, :remote_cache
+#set :deploy_via, :remote_cache
 
 set :domain, "128.143.8.227"
 
