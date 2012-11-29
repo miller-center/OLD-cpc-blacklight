@@ -34,6 +34,11 @@ class CatalogController < ApplicationController
     config.add_show_field 'type', :label => 'Type:'
     config.add_show_field 'format', :label => 'Format:'
     config.add_show_field 'identifier', :label => 'Identifier:'
+    config.add_show_field 'source', :label => 'Source:'
+    config.add_show_field 'language', :label => 'Language:'
+    config.add_show_field 'relation', :label => 'Relation:'
+    config.add_show_field 'coverage', :label => 'Coverage:'
+    config.add_show_field 'rights', :label => 'Rights:'
 
 
     # solr fields that will be treated as facets by the blacklight application
