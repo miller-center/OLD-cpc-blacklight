@@ -62,7 +62,7 @@ class XmlImporter
       @solr.commit
       @solr.optimize
     rescue StandardError => err
-      STDERR.puts "Error importing from #{file}: #{err}\n\tDoc: #{solrdoc}"
+      STDERR.puts "Error importing from #{file}: #{err}"
     end
 
     pbar.finish
