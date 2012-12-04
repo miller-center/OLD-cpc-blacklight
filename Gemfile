@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.5'
 
 gem 'haml'
-gem 'heroku_san'
 gem 'jquery-rails'
 gem 'factory_girl_rails', '>= 1.6.0'
 gem 'blacklight', git: 'git://github.com/rahearn/blacklight.git', branch: 'feature/escape_index_link'
@@ -11,6 +10,8 @@ gem 'blacklight_advanced_search'
 gem 'blacklight_highlight'
 gem 'devise'
 gem 'therubyracer'
+gem 'nokogiri'
+gem 'progressbar'
 
 gem 'thin'
 
