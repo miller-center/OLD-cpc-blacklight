@@ -23,7 +23,7 @@ class OaiImporter < XmlImporter
       "dc:description" => :description,
       "dc:creator" => :creator,
       "dc:date" => :date,
-      "dc:format" => :format,
+      "dc:format" => :formats,
       "dcterms:medium" => :medium,
       "dc:title" => :title,
       "dc:contributor" => :contributor,
