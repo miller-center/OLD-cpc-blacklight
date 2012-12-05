@@ -9,7 +9,7 @@ set :branch, fetch(:branch, "master")
 set :deploy_to, "/opt/imls"
 set :group_writable, false
 set :use_sudo, true
-set :keep_releases, 5
+set :keep_releases, 3
 set :scm, :git
 set :user, :imls
 
@@ -28,6 +28,7 @@ role :db, domain, :primary => true
 
 ## deployment tasks
 before 'deploy:assets:precompile', 'deploy:symlink_db'
+after 'deploy:update', 'deploy:cleanup'
 
 namespace :deploy do
   desc "Symlinks production database.yml"
