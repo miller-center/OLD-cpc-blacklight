@@ -8,7 +8,7 @@ set :repository,  "git@github.com:miller-center/imls.git"
 set :branch, fetch(:branch, "master")
 set :deploy_to, "/opt/imls"
 set :group_writable, false
-set :use_sudo, true
+set :use_sudo, false
 set :keep_releases, 3
 set :scm, :git
 set :user, :imls
