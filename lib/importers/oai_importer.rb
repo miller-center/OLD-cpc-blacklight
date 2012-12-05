@@ -18,23 +18,22 @@ class OaiImporter < XmlImporter
     @mappings = {
       "dc:id" => :id,
       "dc:publisher" => :publisher,
-      #"dcterms:isPartOf" => :isPartOf, #TODO: add to solr schema
+      "dcterms:isPartOf" => :isPartOf,
       # "dc:identifier" => :id,
       "dc:description" => :description,
       "dc:creator" => :creator,
       "dc:date" => :date,
       "dc:format" => :format,
-      #"dcterms:medium" => :medium, #TODO: add to solr schema
+      "dcterms:medium" => :medium,
       "dc:title" => :title,
-      #"dc:contributor" => :contributor, #TODO: add to solr schema
-      #"dc:provenance" => :provenance, #TODO: add to solr schema
+      "dc:contributor" => :contributor,
+      "dc:provenance" => :provenance,
       "dc:subject" => :subject,
       "dc:source" => :source
     }
 
     @filters = {
       :id => XmlImporter.gsub_filter(/\./, '_'),
-      :format => XmlImporter.join_filter
     }
   end
 end
