@@ -45,7 +45,6 @@ class CatalogController < ApplicationController
     config.add_facet_field 'type_facet', :label => 'Type'
     config.add_facet_field 'format_facet', :label => 'Format'
     config.add_facet_field 'date_facet', :label => 'Date'
-    config.add_facet_field 'publisher_facet', :label => 'Publisher'
     # Have BL send all facet field names to Solr
     config.default_solr_params[:'facet.field'] = config.facet_fields.keys
 
@@ -83,10 +82,11 @@ class CatalogController < ApplicationController
     # mean") suggestion is offered.
     config.spell_max = 5
 
+
     # advanced search configuration
     config.advanced_search = {
       :form_solr_parameters => {
-        'facet.field' => %w[type_facet format_facet date_facet publisher_facet]
+        'facet.field' => %w[type_facet format_facet date_facet]
       }
     }
 
