@@ -29,7 +29,10 @@ class OaiImporter < XmlImporter
       "dc:contributor" => :contributor,
       "dc:provenance" => :provenance,
       "dc:subject" => :subject,
-      "dc:source" => :source
+      "dc:source" => :source,
+      "dc:type" => :type,
+      "dc:language" => :language,
+      "dc:rights" => :rights
     }
 
     @filters = {
