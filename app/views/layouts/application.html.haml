@@ -13,7 +13,7 @@
       #hd
         #logo
           %h1.site_title
-            = link_to application_name, '/'
+            = link_to 'Miller Center', '/'
             = content_tag(:span, 'Search Results', id: :results_text) if (params[:controller] == 'catalog' and !params[:id])
         #user_util_links= render '/user_util_links'
 
