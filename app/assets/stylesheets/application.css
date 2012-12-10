@@ -11,75 +11,7 @@ body {
 
 
 
-/*From here down are styles pasted from cpc.css. Trying to get them to work. - Amber 11/27/12 */
+/*From here down are styles pasted from cpc.css. Trying to get them to work. - Amber 11/27/12 
+12/20/12: Updated with import statement, since it was unclear whether that was the problem in previous test. - A*/
 
-/*Widen sidebar */
-#bd #main {width: 70%; padding-left: 10px;}
-#bd #sidebar {width: 25%;}
-#bd #sidebar #facets.facets {width: 100%;}
-#bd #sidebar #facets li {width: 100%;}
-
-
-/*Recolor background */
-body {background: #efe9e4;}
-
-/*Frame the page*/
-#page {
-	background: #fff; 
-	border-top: 4px #C4DAFE solid; 
-	border-bottom: 1px #174a7c solid;  
-	-webkit-box-shadow: 0px 0px 13px rgba(50, 50, 50, 0.75);
-	-moz-box-shadow:    0px 0px 13px rgba(50, 50, 50, 0.75);
-	box-shadow:         0px 0px 13px rgba(50, 50, 50, 0.75);
-	}
-	
-
-/*Add MC logo and append with title */
-h1.site_title {
-	background-image: url("http://millercenter.org/images/imls-beta/mc-logo.png"); 
-	background-repeat: no-repeat; 
-	height: 80px; 
-	width: 500px; 
-	padding-left: 90px;
-	padding-top: 5px; 
-	font-size: 20px;
-	margin-top: 10px; }
-
-h1.site_title:after {content:"Connecting Presidential Collections"; }
-h1.site_title a {display:none;}
-
- 
-#hd {padding: 0;}
-
-div#bd div#main div#main_container {}
-div#bd div#main div#main_container h1 {display: none;}
-div#bd div#main div#main_container blockquote {display:none;}
-
-#facets span.selected {color: #000; }
-
-#facets li a.remove {
-	color: #000; 
-	background: #e2edfe; 
-	padding-left: 6px; 
-	border: 1px solid #C4DAFE; 
-	-webkit-border-radius: 8px 8px 8px 8px;
-	-moz-border-radius: 8px 8px 8px 8px;
-	border-radius: 8px 8px 8px 8px; 
-	margin-left: 3px;}
-#facets li a.remove:after {content:" x"; padding-right: 6px; }
-
-#hd #user_util_links {margin-top: 0;}
-
-
-
-/*These styles apply to the placeholder content on the beta (featured, partner logos, etc.) */
-
-.partner-logo {float:right; margin: 0 25px;}
-.featured-item {}
-img.featured-item {margin: 0 10px 0 0;padding: 3px; border: 1px solid #C4DAFE;}
-.more {font-weight: bold; }
-.more a:after {content: " →";}
-figure.main-image {float:right; width: 415px;}
-
-
-
+@import url("cpc.css");

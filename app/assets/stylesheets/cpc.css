@@ -73,3 +73,11 @@ figure.main-image {float:right; width: 415px;}
 
 
 
+/* Final tweaks, 12/10/12 - Amber*/
+
+#appliedParams .label {margin-top: 0;
+position: static;
+/*left: auto;*/}
+
+dl.defList dt {float: left; width: 75px; text-align: right;}
+dl.defList dd {width: 400px;}
