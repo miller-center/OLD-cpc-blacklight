@@ -9,10 +9,3 @@ body {
 #documents em {
   background-color: yellow;
 }
-
-
-
-/*From here down are styles pasted from cpc.css. Trying to get them to work. - Amber 11/27/12 
-12/20/12: Updated with import statement, since it was unclear whether that was the problem in previous test. - A*/
-
-@import url("cpc.css");
