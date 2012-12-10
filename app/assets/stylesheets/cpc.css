@@ -42,7 +42,6 @@ h1.site_title a {display:none;}
 #hd {padding: 0;}
 
 div#bd div#main div#main_container {}
-div#bd div#main div#main_container h1 {display: none;}
 div#bd div#main div#main_container blockquote {}
 
 #facets span.selected {color: #000; }
