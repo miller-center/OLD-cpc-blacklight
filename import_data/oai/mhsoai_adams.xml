@@ -43,7 +43,7 @@
           <dc:date>circa 1766 </dc:date>
           <dc:type>Image  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0001</dc:identifier>
           <dc:source>http://www.masshist.org/database/40   </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -72,7 +72,7 @@
           <dc:date> 1776</dc:date>
           <dc:type>Image  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>   </dc:identifier>
+          <dc:identifier>mhs_adams_0007</dc:identifier>
           <dc:source>http://www.masshist.org/database/6  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -99,7 +99,7 @@
           <dc:date>1788 </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0004</dc:identifier>
           <dc:source>http://www.masshist.org/82 </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -130,7 +130,7 @@
           <dc:date> 1753-1804</dc:date>
           <dc:type>Web page with links to digital presentations of manuscript volumes </dc:type>
           <dc:format> image/jpeg  and transcriptions</dc:format>
-          <dc:identifier></dc:identifier>
+          <dc:identifier>mhs_adams_0143</dc:identifier>
           <dc:source>http://www.masshist.org/digitaladams/aea/browse/diaries_by_number.html  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -176,7 +176,7 @@
           <dc:date> </dc:date>
           <dc:type> Web presentation of images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0054</dc:identifier>
           <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703ja  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -219,7 +219,7 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0097</dc:identifier>
           <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703jasecond  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -253,7 +253,7 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier></dc:identifier>
+          <dc:identifier>mhs_adams_0006</dc:identifier>
           <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17621004ja  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -283,7 +283,7 @@
           <dc:date> </dc:date>
           <dc:type> Web displays of images of diary pages and assocaited dates. </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0010</dc:identifier>
           <dc:source>http://www.masshist.org/jqadiaries/doc.cfm?id=jqad23_43  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -374,7 +374,7 @@
           <dc:date> </dc:date>
           <dc:type>Web presentation with images and iink to transcription  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0043</dc:identifier>
           <dc:source>http://www.masshist.org/586  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -405,7 +405,7 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0028</dc:identifier>
           <dc:source> http://www.masshist.org/jqadiaries/doc.cfm?id=jqad29_1 </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -433,7 +433,7 @@
           <dc:date> </dc:date>
           <dc:type> Image </dc:type>
           <dc:format> image/jpeg </dc:format>
-            <dc:identifier></dc:identifier>
+            <dc:identifier>mhs_adams_0201</dc:identifier>
           <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N422 </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -462,7 +462,7 @@
           <dc:date> </dc:date>
           <dc:type>Image  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier></dc:identifier>
+          <dc:identifier>mhs_adams_0302</dc:identifier>
           <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N423  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -490,7 +490,7 @@
           <dc:date> </dc:date>
           <dc:type>  Image</dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier></dc:identifier>
+          <dc:identifier>mhs_adams_0540</dc:identifier>
           <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N424  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -519,7 +519,7 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0219</dc:identifier>
           <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N425  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -548,7 +548,7 @@
           <dc:date> </dc:date>
           <dc:type> Interactive website with page images </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0119</dc:identifier>
           <dc:source>http://www.masshist.org/thomasjeffersonpapers/notes/  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -577,7 +577,7 @@
           <dc:date>1776 </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0333</dc:identifier>
           <dc:source>http://www.masshist.org/database/962  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -603,7 +603,7 @@
           <dc:date> </dc:date>
           <dc:type> Images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier></dc:identifier>
+          <dc:identifier>mhs_adams_0225</dc:identifier>
           <dc:source>http://www.masshist.org/database/1701  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -664,7 +664,7 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_0755</dc:identifier>
           <dc:source>http://www.masshist.org/database/1745  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -680,7 +680,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>zxa120</dc:id>
+          <dc:id>mhs_adams_zxa120</dc:id>
           <dc:title> Letter from John Adams to James Warren, 7 October 1775   </dc:title>
           <dc:creator>John Adams </dc:creator>
           <dc:subject>United States -- Foreign relations 1775-1783 </dc:subject>
@@ -694,7 +694,7 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_zxa120</dc:identifier>
           <dc:source>http://www.masshist.org/database/816  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -710,7 +710,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>zxa121</dc:id>
+          <dc:id>mhs_adams_zxa121</dc:id>
           <dc:title>Letter from John Adams to Abigail Adams, 2 November 1800 </dc:title>
           <dc:creator>John Adams </dc:creator>
           <dc:subject>  </dc:subject>
@@ -723,7 +723,7 @@
           <dc:date> </dc:date>
           <dc:type> Images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> </dc:identifier>
+          <dc:identifier>mhs_adams_zxa121</dc:identifier>
           <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L18001102ja  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
@@ -739,7 +739,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>zxa122</dc:id> 
+          <dc:id>mhs_admas_zxa122</dc:id> 
           <dc:title>  Letter from Abigail Adams to John Adams, 31 March - 5 April 1776 </dc:title>
           <dc:creator>Abigail Adams </dc:creator>
           <dc:subject>  </dc:subject>
@@ -787,10 +787,8 @@
           <dc:date> </dc:date>
           <dc:type> images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760331aa</dc:identifier>
-          <dc:identifier/>
-          <dc:identifier/>
-          <dc:source>  </dc:source>
+          <dc:identifier>mhs_admas_zxa122</dc:identifier>
+          <dc:source> http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760331aa </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
