@@ -31,7 +31,7 @@
       <oai:metadata>
         <!-- add paired value for schemaLocation below: -->
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0001</dc:id>
+          <dc:id>mhs_adams_0001</dc:id>
           <dc:title> John Adams, [portrait] </dc:title>
           <dc:creator> Benjamin Blyth</dc:creator>
           <dc:subject> Adams, John, 1735-1826 --Portraits </dc:subject>
@@ -43,8 +43,8 @@
           <dc:date>circa 1766 </dc:date>
           <dc:type>Image  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>http://www.masshist.org/database/40  </dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/database/40   </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -60,7 +60,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0007</dc:id> 
+          <dc:id>mhs_adams_0007</dc:id> 
           <dc:title>Declaration of Independence [manuscript copy], [1776]</dc:title>
           <dc:creator> Draft copied by John Adams </dc:creator>
           <dc:subject>United States.  </dc:subject>
@@ -72,8 +72,8 @@
           <dc:date> 1776</dc:date>
           <dc:type>Image  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>   http://www.masshist.org/database/6</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier>   </dc:identifier>
+          <dc:source>http://www.masshist.org/database/6  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -89,7 +89,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0004</dc:id>
+          <dc:id>mhs_adams_0004</dc:id>
           <dc:title>Diplomatic medal of the States-General of the United Provinces of Holland given to John Adams </dc:title>
           <dc:creator> unidentified creator  </dc:creator>
           <dc:subject>United States --Foreign relations --1783-1815--Medals.  </dc:subject>
@@ -99,8 +99,8 @@
           <dc:date>1788 </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/82</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/82 </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -115,7 +115,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0143</dc:id>
+          <dc:id>mhs_adams_0143</dc:id>
           <dc:title> Diaries of John Adams</dc:title>
           <dc:creator> John Adams  </dc:creator>
           <dc:subject>Massachusetts--History--Revolution, 1775-1783--Personal narratives.  </dc:subject>
@@ -130,8 +130,8 @@
           <dc:date> 1753-1804</dc:date>
           <dc:type>Web page with links to digital presentations of manuscript volumes </dc:type>
           <dc:format> image/jpeg  and transcriptions</dc:format>
-          <dc:identifier>http://www.masshist.org/digitaladams/aea/browse/diaries_by_number.html</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier></dc:identifier>
+          <dc:source>http://www.masshist.org/digitaladams/aea/browse/diaries_by_number.html  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -146,7 +146,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0054</dc:id>
+          <dc:id>mhs_adams_0054</dc:id>
           <dc:title> Letter from John Adams to Abigail Adams, 3 July 1776, "Your Favour of June 17..."  </dc:title>
           <dc:creator> John Adams </dc:creator>
           <dc:subject>United States History Revolution, 1775-1783 </dc:subject>
@@ -176,8 +176,8 @@
           <dc:date> </dc:date>
           <dc:type> Web presentation of images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703ja</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703ja  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -192,7 +192,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0097</dc:id>
+          <dc:id>mhs_adams_0097</dc:id>
           <dc:title>  Letter from John Adams to Abigail Adams, 3 July 1776, "Had a Declaration..." </dc:title>
           <dc:creator> John Adams  </dc:creator>
           <dc:subject>United States History Revolution, 1775-1783 </dc:subject>
@@ -219,8 +219,8 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703jasecond</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17760703jasecond  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -235,7 +235,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0006</dc:id>
+          <dc:id>mhs_adams_0006</dc:id>
           <dc:title> Letter from John Adams to Abigail Smith, 4 October 1762</dc:title>
           <dc:creator>John Adams </dc:creator>
           <dc:subject>  </dc:subject>
@@ -253,8 +253,8 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17621004ja</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier></dc:identifier>
+          <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L17621004ja  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -269,7 +269,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0010</dc:id>
+          <dc:id>mhs_adams_0010</dc:id>
           <dc:title>  John Quincy Adams diary 23, 1 January 1795 - 12 May 1801, 5 August 1809 - 30 April 1836  </dc:title>
           <dc:creator> John Quincy Adams </dc:creator>
           <dc:subject>Diaries</dc:subject>
@@ -283,8 +283,8 @@
           <dc:date> </dc:date>
           <dc:type> Web displays of images of diary pages and assocaited dates. </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/jqadiaries/doc.cfm?id=jqad23_43</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/jqadiaries/doc.cfm?id=jqad23_43  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -299,7 +299,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0043</dc:id>
+          <dc:id>mhs_adams_0043</dc:id>
           <dc:title>Letter from John Adams to Jeremy Belknap, 21 March 1795 </dc:title>
           <dc:creator>John Adams  </dc:creator>
           <dc:subject>Slavery --Massachusetts.</dc:subject>
@@ -374,8 +374,8 @@
           <dc:date> </dc:date>
           <dc:type>Web presentation with images and iink to transcription  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/586</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/586  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -390,7 +390,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0028</dc:id>
+          <dc:id>mhs_adams_0028</dc:id>
           <dc:title> John Quincy Adams diary 29, 1 August 1813 - 31 May 1816   </dc:title>
           <dc:creator> John Quincy Adams  </dc:creator>
           <dc:subject> Diaries </dc:subject>
@@ -405,8 +405,8 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/jqadiaries/doc.cfm?id=jqad29_1</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source> http://www.masshist.org/jqadiaries/doc.cfm?id=jqad29_1 </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -421,7 +421,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0201</dc:id>
+          <dc:id>mhs_adams_0201</dc:id>
           <dc:title>Williamsburg: Governor's Palace (plan), [1768]; or 1779-17, by Thomas Jefferson. N422; K95  </dc:title>
           <dc:creator> Thomas Jefferson </dc:creator>
           <dc:subject> Architecture --Designs and plans. </dc:subject>
@@ -433,8 +433,8 @@
           <dc:date> </dc:date>
           <dc:type> Image </dc:type>
           <dc:format> image/jpeg </dc:format>
-            <dc:identifier>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N422</dc:identifier>
-          <dc:source>  </dc:source>
+            <dc:identifier></dc:identifier>
+          <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N422 </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -449,7 +449,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0302</dc:id>
+          <dc:id>mhs_adams_0302</dc:id>
           <dc:title>  Williamsburg: Governor's Palace (study plan), 1779-1781, by Thomas Jefferson. N423; K96  </dc:title>
           <dc:creator> Thomas Jefferson </dc:creator>
           <dc:subject> Architecture --Designs and plans. </dc:subject>
@@ -462,8 +462,8 @@
           <dc:date> </dc:date>
           <dc:type>Image  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N423</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier></dc:identifier>
+          <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N423  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -477,7 +477,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0540</dc:id> 
+          <dc:id>mhs_adams_0540</dc:id> 
           <dc:title>  Williamsburg: Governor's Palace (study plan), 1779-1781, by Thomas Jefferson. N424; K97  </dc:title>
           <dc:creator> Thomas Jefferson </dc:creator>
           <dc:subject> Architecture --Designs and plans. </dc:subject>
@@ -490,8 +490,8 @@
           <dc:date> </dc:date>
           <dc:type>  Image</dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N424</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier></dc:identifier>
+          <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N424  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -506,7 +506,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0219</dc:id>
+          <dc:id>mhs_adams_0219</dc:id>
           <dc:title> Williamsburg: Governor's Palace (study plan), 1779-1781, by Thomas Jefferson. N425; K98  </dc:title>
           <dc:creator> Thomas Jefferson  </dc:creator>
           <dc:subject> Architecture --Designs and plans. </dc:subject>
@@ -519,8 +519,8 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N425</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/thomasjeffersonpapers/cfm/doc.cfm?id=arch_N425  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -535,7 +535,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0119</dc:id>
+          <dc:id>mhs_adams_0119</dc:id>
           <dc:title>Notes on the State of Virginia [manuscript], [1781-1785]  </dc:title>
           <dc:creator> Thomas Jefferson  </dc:creator>
           <dc:subject>Indians of North America --Virginia  </dc:subject>
@@ -548,8 +548,8 @@
           <dc:date> </dc:date>
           <dc:type> Interactive website with page images </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/thomasjeffersonpapers/notes/</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/thomasjeffersonpapers/notes/  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -564,7 +564,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0333</dc:id>
+          <dc:id>mhs_adams_0333</dc:id>
           <dc:title> Thoughts on Government: Applicable to the Present State of the American Colonies   </dc:title>
           <dc:creator>John Adams</dc:creator>
           <dc:subject>Political science</dc:subject>
@@ -577,8 +577,8 @@
           <dc:date>1776 </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/database/962</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/database/962  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -593,7 +593,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0225</dc:id>
+          <dc:id>mhs_adams_0225</dc:id>
           <dc:title>Letter from Francis Dana to John Adams, 28 August 1781 O.S. [8 September 1781 N.S. (New Style)] </dc:title>
           <dc:creator> Francis Dana </dc:creator>
           <dc:subject>United States Foreign relations 1775-1783  </dc:subject>
@@ -603,8 +603,8 @@
           <dc:date> </dc:date>
           <dc:type> Images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier>http://www.masshist.org/database/1701</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier></dc:identifier>
+          <dc:source>http://www.masshist.org/database/1701  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -619,7 +619,7 @@
       </oai:header>
       <oai:metadata>
         <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-          <dc:id>0755</dc:id>
+          <dc:id>mhs_adams_0755</dc:id>
           <dc:title> Letter from John Adams to John Quincy Adams, 10 November 1818 </dc:title>
           <dc:creator>John Adams</dc:creator>
           <dc:subject> </dc:subject><dc:description>Letter from John Adams to John Quincy Adams, 10 Nivember 1818. From the Adams Family Papers.</dc:description>
@@ -664,8 +664,8 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/database/1745</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/database/1745  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -694,8 +694,8 @@
           <dc:date> </dc:date>
           <dc:type>  </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/database/816</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/database/816  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
@@ -723,8 +723,8 @@
           <dc:date> </dc:date>
           <dc:type> Images and transcription </dc:type>
           <dc:format> image/jpeg </dc:format>
-          <dc:identifier> http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L18001102ja</dc:identifier>
-          <dc:source>  </dc:source>
+          <dc:identifier> </dc:identifier>
+          <dc:source>http://www.masshist.org/digitaladams/aea/cfm/doc.cfm?id=L18001102ja  </dc:source>
           <dc:language> </dc:language>
           <dc:relation>  </dc:relation>
           <dc:coverage> </dc:coverage>
