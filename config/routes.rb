@@ -4,5 +4,7 @@ Imls::Application.routes.draw do
   Blacklight.add_routes(self)
 
   devise_for :users
-
+  
+  get "/:page" => "static#show"
+  
 end
