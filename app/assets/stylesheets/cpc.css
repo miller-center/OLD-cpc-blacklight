@@ -23,7 +23,7 @@ body {background-color: #f8f4f0;}
 
 /*Add MC logo and append with title */
 h1.site_title {
-	background-image: url("/images/mc-logo.png"); 
+	background-image: url("http://millercenter.org/images/imls-beta/mc-logo.png"); 
 	background-repeat: no-repeat; 
 	height: 80px; 
 	width: 500px; 
