@@ -80,3 +80,5 @@ position: static;
 
 dl.defList dt {float: left; width: 75px; text-align: right;}
 dl.defList dd {width: 400px;}
+
+#citation-examples {margin-left: 25px;}
