@@ -12,7 +12,8 @@
     #page
       #hd
         #logo
-          link_to %h1.site_title, '/'
+          %h1.site_title
+            = link_to 'Miller Center', root_path
             = content_tag(:span, 'Search Results', id: :results_text) if (params[:controller] == 'catalog' and !params[:id])
         #user_util_links= render '/user_util_links'
 
