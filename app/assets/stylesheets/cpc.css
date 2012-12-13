@@ -67,6 +67,7 @@ div#bd div#main div#main_container blockquote { color: #555; } /*Mission stateme
 .partner-logo {float:right; margin: 0 25px;}
 .featured-item {}
 img.featured-item {margin: 0 10px 0 0;padding: 3px; border: 1px solid #C4DAFE;}
+#featured a:link, #featured a:visited, #featured a:active {border-bottom: 0;}
 .more {font-weight: bold; }
 .more a:after {content: " →";}
 figure.main-image {float:right; width: 415px;}
