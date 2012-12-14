@@ -83,3 +83,5 @@ figure.main-image {float:right; width: 415px;}
 	/*By default the dl/dt/dd lists indent the dt but not dd... this edit puts them on the same line.*/
 	dl.defList dt {float: left; width: 75px; text-align: right;}
 	dl.defList dd {width: 400px;}
+
+div#search a.advanced_search {display:none;}
