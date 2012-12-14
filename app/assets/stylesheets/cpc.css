@@ -70,7 +70,8 @@ img.featured-item {margin: 0 8px 0 0;padding: 3px; border: 1px solid #C4DAFE;}
 #featured a:link, #featured a:visited, #featured a:active {border-bottom: 0;}
 .more {font-weight: bold; }
 .more a:after {content: " →";}
-figure.main-image {float:right; width: 415px;}
+figure.main-image {float:right; width: 280px; margin: 10px;}
+figure.main-image a:link {border-bottom: 0;}
 #citation-examples {margin-left: 25px;}
 
 
