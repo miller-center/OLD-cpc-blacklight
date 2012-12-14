@@ -22,7 +22,7 @@
 %p
 	The partner organizations determine the rights for digital objects on this site. Please go to the partners’ websites for more information.
 	%span{:class => "more"}
-		=link_to("Read more", "about#terms")
+		= link_to("Read more", "about#terms")
 
 %h3
 	= link_to("Citation Styles", "/about#citationstyles")
@@ -35,3 +35,9 @@
 	= link_to("API", "/about#api")
 %p
 	Information in this database is free and open source. Use our API to refer to the data on your own site. (To come.)
+	
+%h3 Funded by the IMLS
+= link_to image_tag("imls-logo.png", :alt => "Institute of Museum and Library Services", :id => "imls-logo", :width => "165", :height => "75"), "http://www.imls.gov/"
+%p
+	The UVA Miller Center thanks IMLS for its generous support of Connecting Presidential Collections. The mission of IMLS is to inspire libraries and museums to advance innovation, lifelong learning, and cultural and civic engagement. We provide leadership through research, policy development, and grant making.
+	= link_to("Read more", "http://www.imls.gov/")
