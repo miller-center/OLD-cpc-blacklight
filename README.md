@@ -17,4 +17,3 @@ Contributing
  - fork
  - hack
  - pull request
-
