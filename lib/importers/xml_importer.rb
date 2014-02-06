@@ -45,6 +45,24 @@ class XmlImporter
     @solr = RSolr.connect :url => @solr_config["url"]
   end
 
+  def import_test(file)
+    f = File.open(file)
+    doc = Nokogiri::XML(f)
+    f.close
+    output = []
+
+    records = doc.xpath(record_delimiter, namespaces)
+    puts "Importing #{records.length} records from #{file}"
+    pbar = ProgressBar.new("importing", records.length)
+    records.each do |record|
+      output << import_record_node_test(record)
+      pbar.inc
+    end
+
+    pbar.finish
+    output
+  end # ms3uf hack
+
   def import(file)
     f = File.open(file)
     doc = Nokogiri::XML(f)
@@ -111,6 +129,41 @@ class XmlImporter
 
 
   private
+
+  def import_record_node_test(record)  
+    solrdoc = {}
+
+    @mappings.each do |xpath, docfield|
+      record.xpath(mappings_prefix+xpath, namespaces).each do |node|
+        field_val = node.text
+
+        if solrdoc[docfield]
+          if solrdoc[docfield].is_a?(Array)
+            solrdoc[docfield] << field_val
+          else
+            solrdoc[docfield] = [solrdoc[docfield], field_val]
+          end
+        else
+          solrdoc[docfield] = field_val
+        end
+      end
+
+      filter = filters[docfield] || default_filter
+      field_val = filter.call(solrdoc[docfield])
+      if field_val.nil?
+        solrdoc.delete(docfield)
+      else
+        solrdoc[docfield] = field_val
+      end
+    end
+
+    if solrdoc.empty?
+      STDERR.puts "Skipping empty record"
+      return
+    end
+
+    return solrdoc
+  end #ms3uf hack
 
   def import_record_node(record)  
     solrdoc = {}

@@ -20,7 +20,7 @@ group :development, :test do
   gem 'rspec-rails', '>= 2.8.1'
   gem 'pry'
   gem 'pry-nav'
-  gem 'capistrano'
+  gem 'capistrano', '~> 2.5.0'
   gem 'capistrano_colors'
 end
 
