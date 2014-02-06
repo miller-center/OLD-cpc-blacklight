@@ -46,6 +46,10 @@ class CatalogController < ApplicationController
     config.add_facet_field 'format_facet', :label => 'Format'
     config.add_facet_field 'date_facet', :label => 'Date'
     config.add_facet_field 'publisher_facet', :label => 'Publisher'
+    config.add_facet_field 'language_facet', :label => 'Language'
+    config.add_facet_field 'creator_facet', :label => 'Author'
+    config.add_facet_field 'subject_facet', :label => 'Subject'
+    config.add_facet_field 'contributor_facet', :label => 'Contributor'
 
     # Have BL send all facet field names to Solr
     config.default_solr_params[:'facet.field'] = config.facet_fields.keys
